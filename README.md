@@ -31,9 +31,11 @@ A responsive React web app to search movies using the [OMDb API](http://www.omdb
    ```sh
    git clone <(https://github.com/neerajguptha/Movie_Search_App)>
    cd movie-app
+   ```
 2. Install dependencies:
-   
-   npm install   ```
+   ```sh
+   npm install
+     ```
 
 ### Running the App
 
